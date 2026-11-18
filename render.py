@@ -215,7 +215,7 @@ def main():
          "a joint return facility in Rwanda for rejected asylum seekers. "
          "Transfers could begin in 2027."),
         ("TECH · CHIPS", PURPLE, "bars",
-         "US tightens chip curbs; Nvidia jumps",
+         "US tightens chip curbs; Nvidia reports bumper earnings",
          "The US introduced new licensing rules for advanced processor "
          "sales to data centres in Southeast Asia. Nvidia reported strong "
          "earnings on Tuesday after Jensen Huang's exit."),
